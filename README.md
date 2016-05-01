@@ -1,2 +1,2 @@
-# education_evaluation
-Education Evaluation Final Project
+#HI-SCORE
+Final Project
